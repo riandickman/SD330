@@ -1,0 +1,155 @@
+{
+    "parkingLots": [
+      {
+        "name": "Dyson Lot",
+        "mapjpgFilename": "dysonlot.jpg",
+        "totalSpaces": 100,
+        "comments": "North End of campus, outside Dyson Academic Building, very large",
+        "restrictions": "Faculty/Staff",
+        "totalRows": "18",
+        "totalArea": "1000 sq ft", 
+        "spaces": [
+            { 
+              "id": "1",
+              "type": "Student",
+              "isHandicap": "Yes",
+              "status": "Filled",
+              "time_date_filled": "11/24/2024, 14:02",
+              "time_date_reserved": null
+            },
+            { 
+              "id": "2",
+              "type": "Student",
+              "isHandicap": "Yes",
+              "status": "Available",
+              "time_date_filled": null,
+              "time_date_reserved": null
+            },
+            { 
+              "id": "3",
+              "type": "Student",
+              "isHandicap": "No",
+              "status": "Available",
+              "time_date_filled": null,
+              "time_date_reserved": null
+            },
+            { 
+              "id": "4",
+              "type": "Student",
+              "isHandicap": "No",
+              "status": "Reserved",
+              "time_date_filled": null,
+              "time_date_reserved": "11/22/2024, 10:43"
+            },
+            { 
+              "id": "5",
+              "type": "Faculty",
+              "isHandicap": "Yes",
+              "status": "Reserved",
+              "time_date_filled": null,
+              "time_date_reserved": "11/20/2024, 9:23"
+            },
+            { 
+              "id": "6",
+              "type": "Student",
+              "isHandicap": "No",
+              "status": "Filled",
+              "time_date_filled": "11/11/2024, 5:30",
+              "time_date_reserved": null
+            },
+            { 
+              "id": "7",
+              "type": "Faculty",
+              "isHandicap": "No",
+              "status": "Available",
+              "time_date_filled": null,
+              "time_date_reserved": null
+            },
+            { 
+              "id": "8",
+              "type": "Faculty",
+              "isHandicap": "No",
+              "status": "Filled",
+              "time_date_filled": "11/24/2024, 3:32",
+              "time_date_reserved": null
+            },
+            { 
+              "id": "9",
+              "type": "Student",
+              "isHandicap": "No",
+              "status": "Available",
+              "time_date_filled": null,
+              "time_date_reserved": null
+            },
+            { 
+              "id": "10",
+              "type": "Faculty",
+              "isHandicap": "Yes",
+              "status": "Available",
+              "time_date_filled": null,
+              "time_date_reserved": null
+            },
+            { 
+              "id": "11",
+              "type": "Student",
+              "isHandicap": "Yes",
+              "status": "Reserved",
+              "time_date_filled": null,
+              "time_date_reserved": "11/25/2024, 6:30"
+            },
+            { 
+              "id": "12",
+              "type": "Student",
+              "isHandicap": "No",
+              "status": "Available",
+              "time_date_filled": null,
+              "time_date_reserved": null
+            } ]
+      },
+      {
+        "name": "Foy Lot",
+        "mapjpg": "foylot.jpg",
+        "totalSpaces": 50,
+        "comments": "North End of campus, outside Foy Townhouses, somewhat small",
+        "restrictions": "Faculty/Staff",
+        "totalRows": "10",
+        "totalArea": "300 sq ft"
+      },
+      {
+        "name": "McCann Lot",
+        "mapjpg": "mccannlot.jpg",
+        "totalSpaces": 500,
+        "comments": "Outside McCann Athletic Facility, very large, in high-demand",
+        "restrictions": "All",
+        "totalRows": "30",
+        "totalArea": "2000 sq ft"
+      },
+      {
+        "name": "Riverview Lot",
+        "mapjpg": "riverviewlot.jpg",
+        "totalSpaces": 100,
+        "comments": "Across the street from Midrise Building, medium-sized, many commuters",
+        "restrictions": "Students",
+        "totalRows": "14",
+        "totalArea": "700 sq ft"
+      },
+      {
+        "name": "North End Lot",
+        "mapjpg": "northendlot.jpg",
+        "totalSpaces": 70,
+        "comments": "North End of campus, outside North End Living Buildings, somewhat small",
+        "restrictions": "Faculty/Staff",
+        "totalRows": "9",
+        "totalArea": "400 sq ft" 
+      },
+      {
+        "name": "Gatehouse Lot",
+        "mapjpg": "gatehouselot.jpg",
+        "totalSpaces": 8,
+        "comments": "Middle of campus, Outside Gatehouse, very small",
+        "restrictions": "All",
+        "totalRows": "1",
+        "totalArea": "50 sq ft"
+      }
+]}
+
